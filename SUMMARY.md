@@ -1,6 +1,5 @@
 # Summary
 
 * [前言](README.md)
-  * [第一页](di-yi-ye.md)
-* [firstpage.md](firstpagemd.md)
+  * [firstpage](firstpage.md)
 
